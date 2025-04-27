@@ -19,6 +19,17 @@ Développée avec ❤️ par [Mathieux83](https://github.com/Mathieux83).
 
 ---
 
+## 📸 Screnshots
+ 
+![Demo1](https://github.com/user-attachments/assets/bdbbb778-5bd1-434b-910d-89a92e5498c1)
+![Demo2](https://github.com/user-attachments/assets/6a04ad03-e8b2-48d3-9506-e91df5365da0)
+![Demo3](https://github.com/user-attachments/assets/a927fc6f-bb02-4faf-9ee8-a7680548153a)
+![Demo4](https://github.com/user-attachments/assets/80ee492e-2fb3-4ec9-9a56-feb5b7398a92)
+
+
+
+---
+
 ## 🛠️ Technologies utilisées
 
 - Python
