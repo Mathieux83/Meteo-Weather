@@ -17,7 +17,7 @@ import sys
 dotenv.load_dotenv()
 
 API_KEY = os.getenv("API_KEY")
-VILLE = "Trans-en-Provence"
+VILLE = os.getenv("VILLE")
 
 class AppMeteo:
     def __init__(self, root):
