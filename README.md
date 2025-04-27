@@ -13,6 +13,7 @@ Développée avec ❤️ par [Mathieux83](https://github.com/Mathieux83).
   - Conditions météorologiques (ensoleillé, nuageux, pluie, etc.)
   - Température minimale et maximale
   - Vitesse du vent
+  - Graphiques intégré
 - Interface responsive et intuitive
 - Données météo en temps réel via une API
 
